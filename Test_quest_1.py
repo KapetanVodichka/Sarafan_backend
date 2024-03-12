@@ -9,6 +9,6 @@ def generate_sequence(n):
     return string
 
 
-n = int(input("Введите количество элементов последовательности: "))
+n = int(input("Введите количество элементов последовательности:  "))
 string = generate_sequence(n)
 print(string)
